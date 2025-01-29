@@ -1,0 +1,179 @@
+# License for Secure File Eraser (Paid Version)
+
+## English Version
+
+Copyright (c) 2025 Namtran5905
+
+This software is licensed, not sold. By purchasing a license for Secure File Eraser, you agree to the following terms and conditions:
+
+1. **License Grant**: You are granted a non-exclusive, non-transferable license to use the Software for personal or commercial purposes, provided that you have paid the applicable license fee.
+
+2. **Payment Requirement**: 
+   - You must pay the required fee to use the Software. 
+   - Failure to pay the fee constitutes a violation of this license agreement.
+
+3. **Permitted Uses**: 
+   - You may install and use the Software on your devices.
+   - You may make backup copies of the Software for your personal use.
+
+4. **Prohibited Uses**: 
+   - You may not distribute, sell, or sublicense the Software without prior written consent from the author.
+   - You may not modify, reverse engineer, or create derivative works based on the Software.
+   - You may not use the Software for any illegal purposes or in violation of any applicable laws.
+
+5. **Consequences of Violation**: 
+   - Any violation of this license agreement may result in immediate termination of your license.
+   - You may be subject to legal action for copyright infringement, including but not limited to claims for damages, attorney fees, and other costs.
+
+6. **Intellectual Property**: 
+   - The Software and its algorithms are protected by copyright and other intellectual property laws. Unauthorized copying or use of the Software or its algorithms is strictly prohibited.
+
+7. **Governing Law**: 
+   - This license agreement shall be governed by the laws of the jurisdiction in which the author resides, without regard to its conflict of law principles.
+
+8. **Future Changes**: 
+   - The author reserves the right to modify the terms of this license agreement at any time. Users will be notified of any changes, and continued use of the Software will constitute acceptance of the new terms.
+
+---
+
+## Vietnamese Version
+
+Bản quyền (c) 2025 Namtran5905
+
+Phần mềm này được cấp phép, không phải bán. Bằng cách mua giấy phép cho Công Cụ Xóa An Toàn, bạn đồng ý với các điều khoản và điều kiện sau:
+
+1. **Cấp Giấy Phép**: Bạn được cấp giấy phép không độc quyền, không thể chuyển nhượng để sử dụng Phần mềm cho mục đích cá nhân hoặc thương mại, với điều kiện bạn đã thanh toán phí giấy phép áp dụng.
+
+2. **Yêu Cầu Thanh Toán**: 
+   - Bạn phải thanh toán phí cần thiết để sử dụng Phần mềm. 
+   - Việc không thanh toán phí sẽ cấu thành vi phạm thỏa thuận giấy phép này.
+
+3. **Sử Dụng Được Phép**: 
+   - Bạn có thể cài đặt và sử dụng Phần mềm trên các thiết bị của mình.
+   - Bạn có thể tạo bản sao lưu của Phần mềm cho mục đích cá nhân.
+
+4. **Sử Dụng Bị Cấm**: 
+   - Bạn không được phân phối, bán hoặc cấp phép lại Phần mềm mà không có sự đồng ý bằng văn bản từ tác giả.
+   - Bạn không được sửa đổi, đảo ngược kỹ thuật hoặc tạo ra các tác phẩm phái sinh dựa trên Phần mềm.
+   - Bạn không được sử dụng Phần mềm cho bất kỳ mục đích bất hợp pháp nào hoặc vi phạm bất kỳ luật nào áp dụng.
+
+5. **Hậu Quả Vi Phạm**: 
+   - Bất kỳ vi phạm nào của thỏa thuận giấy phép này có thể dẫn đến việc ngay lập tức chấm dứt giấy phép của bạn.
+   - Bạn có thể phải chịu trách nhiệm pháp lý về vi phạm bản quyền, bao gồm nhưng không giới hạn ở các yêu cầu bồi thường thiệt hại, phí luật sư và các chi phí khác.
+
+6. **Sở Hữu Trí Tuệ**: 
+   - Phần mềm và các thuật toán của nó được bảo vệ bởi bản quyền và các luật sở hữu trí tuệ khác. Việc sao chép hoặc sử dụng trái phép Phần mềm hoặc các thuật toán của nó là nghiêm cấm.
+
+7. **Luật Điều Chỉnh**: 
+   - Thỏa thuận giấy phép này sẽ được điều chỉnh bởi luật pháp của khu vực mà tác giả cư trú, không tính đến các nguyên tắc xung đột pháp luật.
+
+8. **Thay Đổi Tương Lai**: 
+   - Tác giả có quyền sửa đổi các điều khoản của thỏa thuận giấy phép này bất cứ lúc nào. Người dùng sẽ được thông báo về bất kỳ thay đổi nào, và việc tiếp tục sử dụng Phần mềm sẽ được coi là chấp nhận các điều khoản mới.
+
+---
+
+## Japanese Version
+
+著作権 (c) 2025 Namtran5905
+
+本ソフトウェアは販売されるものではなく、ライセンスが付与されます。セキュアファイルイレーサーのライセンスを購入することにより、以下の条件に同意するものとします。
+
+1. **ライセンスの付与**: 本ソフトウェアを個人または商業目的で使用するための非独占的、譲渡不可のライセンスが付与されます。ただし、適用されるライセンス料を支払った場合に限ります。
+
+2. **支払いの必要性**: 
+   - ソフトウェアを使用するには、必要な料金を支払う必要があります。 
+   - 料金を支払わないことは、本ライセンス契約の違反とみなされます。
+
+3. **許可された使用**: 
+   - デバイスにソフトウェアをインストールして使用できます。
+   - 個人用のバックアップコピーを作成できます。
+
+4. **禁止されている使用**: 
+   - 著者の事前の書面による同意なしに、ソフトウェアを配布、販売、またはサブライセンスすることはできません。
+   - ソフトウェアを修正、逆アセンブル、または派生物を作成することはできません。
+   - 不正な目的でソフトウェアを使用したり、適用される法律に違反したりすることはできません。
+
+5. **違反の結果**: 
+   - 本ライセンス契約の違反は、ライセンスの即時終了をもたらす可能性があります。
+   - 著作権侵害に対して法的措置を受ける可能性があり、損害賠償、弁護士費用、その他の費用が請求されることがあります。
+
+6. **知的財産**: 
+   - ソフトウェアおよびそのアルゴリズムは、著作権およびその他の知的財産法によって保護されています。ソフトウェアまたはそのアルゴリズムの無断コピーや使用は厳しく禁止されています。
+
+7. **準拠法**: 
+   - 本ライセンス契約は、著者が居住する法域の法律に準拠し、法の抵触原則を考慮しません。
+
+8. **将来の変更**: 
+   - 著者は、本ライセンス契約の条件をいつでも変更する権利を留保します。ユーザーは変更について通知され、ソフトウェアの継続的な使用は新しい条件の受け入れとみなされます。
+
+---
+
+## Chinese Version
+
+版权 (c) 2025 Namtran5905
+
+本软件是授权使用，而非出售。通过购买安全文件删除器的许可证，您同意以下条款和条件：
+
+1. **许可证授予**: 您被授予非独占、不可转让的许可证，以个人或商业目的使用本软件，前提是您已支付适用的许可证费用。
+
+2. **支付要求**: 
+   - 您必须支付使用本软件所需的费用。 
+   - 未支付费用将构成对本许可证协议的违反。
+
+3. **允许的使用**: 
+   - 您可以在您的设备上安装和使用本软件。
+   - 您可以为个人使用制作备份副本。
+
+4. **禁止的使用**: 
+   - 未经作者事先书面同意，您不得分发、销售或再许可本软件。
+   - 您不得修改、反向工程或基于本软件创建衍生作品。
+   - 您不得将本软件用于任何非法目的或违反任何适用法律。
+
+5. **违反的后果**: 
+   - 任何违反本许可证协议的行为可能导致您的许可证立即终止。
+   - 您可能会因版权侵权而面临法律诉讼，包括但不限于索赔、损害赔偿和其他费用。
+
+6. **知识产权**: 
+   - 本软件及其算法受版权和其他知识产权法保护。未经授权复制或使用本软件或其算法是严格禁止的。
+
+7. **适用法律**: 
+   - 本许可证协议应受作者居住地的法律管辖，而不考虑其法律冲突原则。
+
+8. **未来的变更**: 
+   - 作者保留随时修改本许可证协议条款的权利。用户将被通知任何更改，继续使用本软件将被视为接受新条款。
+
+---
+
+## Korean Version
+
+저작권 (c) 2025 Namtran5905
+
+본 소프트웨어는 판매되는 것이 아니라 라이센스가 부여됩니다. 세큐어 파일 이레이저의 라이센스를 구매함으로써, 귀하는 다음 조건에 동의하는 것입니다.
+
+1. **라이센스 부여**: 개인 또는 상업적 목적으로 본 소프트웨어를 사용할 수 있는 비독점적이고 양도할 수 없는 라이센스가 부여됩니다. 단, 적용 가능한 라이센스 요금을 지불한 경우에 한합니다.
+
+2. **지불 요구 사항**: 
+   - 본 소프트웨어를 사용하기 위해 필요한 요금을 지불해야 합니다. 
+   - 요금을 지불하지 않는 것은 본 라이센스 계약의 위반으로 간주됩니다.
+
+3. **허용된 사용**: 
+   - 귀하의 장치에 소프트웨어를 설치하고 사용할 수 있습니다.
+   - 개인적인 용도로 소프트웨어의 백업 복사본을 만들 수 있습니다.
+
+4. **금지된 사용**: 
+   - 저자의 사전 서면 동의 없이 소프트웨어를 배포, 판매 또는 서브 라이센스할 수 없습니다.
+   - 소프트웨어를 수정, 역설계하거나 파생 작품을 만들 수 없습니다.
+   - 불법적인 목적으로 소프트웨어를 사용하거나 적용 가능한 법률을 위반할 수 없습니다.
+
+5. **위반의 결과**: 
+   - 본 라이센스 계약의 위반은 귀하의 라이센스가 즉시 종료될 수 있습니다.
+   - 저작권 침해에 대한 법적 조치를 받을 수 있으며, 손해 배상, 변호사 비용 및 기타 비용이 청구될 수 있습니다.
+
+6. **지적 재산**: 
+   - 본 소프트웨어 및 그 알고리즘은 저작권 및 기타 지적 재산법에 의해 보호됩니다. 본 소프트웨어 또는 그 알고리즘을 무단으로 복사하거나 사용하는 것은 엄격히 금지됩니다.
+
+7. **준거법**: 
+   - 본 라이센스 계약은 저자가 거주하는 법률에 따라 규율되며, 법률 충돌 원칙을 고려하지 않습니다.
+
+8. **미래의 변경 사항**: 
+   - 저자는 본 라이센스 계약의 조건을 언제든지 수정할 권리를 보유합니다. 사용자는 변경 사항에 대한 통지를 받으며, 소프트웨어의 지속적인 사용은 새로운 조건을 수용하는 것으로 간주됩니다.
