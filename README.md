@@ -1,7 +1,7 @@
 # Secure File Eraser
 
 ## Overview
-Secure File Eraser is a powerful tool designed to permanently delete files from your system using military-grade erasing algorithms. Developed by **Namtran5905**, this application provides a user-friendly interface for securely erasing files, ensuring that sensitive data cannot be recovered. This tool is essential for individuals and organizations that prioritize data security and privacy.
+Secure File Eraser is a powerful tool designed to permanently delete files from your system using military-grade erasing algorithms. This application provides a user-friendly interface for securely erasing files, ensuring that sensitive data cannot be recovered. This tool is essential for individuals and organizations that prioritize data security and privacy.
 
 ## Features
 - **Multi-Phase Erasing**: The application employs an eight-phase erasing process to ensure complete data destruction, making it nearly impossible for any recovery software to retrieve the deleted files.
@@ -30,15 +30,10 @@ The Secure File Eraser utilizes the following eight-phase algorithm for secure f
 
 8. **Phase 8**: The TRIM command is sent to optimize data deletion on SSDs, and the file is deleted. This step is crucial for ensuring that the SSD can effectively manage the deleted data, preventing any remnants from being recoverable.
 
-## Developer
-This application was developed by **Namtran5905**, a passionate developer dedicated to creating tools that enhance data security and privacy. For more information, please contact the developer.
-
----
-
 # Công Cụ Xóa An Toàn
 
 ## Tổng Quan
-Công Cụ Xóa An Toàn là một công cụ mạnh mẽ được thiết kế để xóa vĩnh viễn các tệp từ hệ thống của bạn bằng cách sử dụng các thuật toán xóa cấp độ quân sự. Được phát triển bởi **Namtran5905**, ứng dụng này cung cấp giao diện thân thiện với người dùng để xóa tệp an toàn, đảm bảo rằng dữ liệu nhạy cảm không thể được khôi phục. Công cụ này rất cần thiết cho các cá nhân và tổ chức ưu tiên bảo mật và quyền riêng tư dữ liệu.
+Công Cụ Xóa An Toàn là một công cụ mạnh mẽ được thiết kế để xóa vĩnh viễn các tệp từ hệ thống của bạn bằng cách sử dụng các thuật toán xóa cấp độ quân sự. Ứng dụng này cung cấp giao diện thân thiện với người dùng để xóa tệp an toàn, đảm bảo rằng dữ liệu nhạy cảm không thể được khôi phục. Công cụ này rất cần thiết cho các cá nhân và tổ chức ưu tiên bảo mật và quyền riêng tư dữ liệu.
 
 ## Tính Năng
 - **Xóa Nhiều Giai Đoạn**: Ứng dụng sử dụng quy trình xóa tám giai đoạn để đảm bảo tiêu hủy hoàn toàn dữ liệu, khiến cho bất kỳ phần mềm phục hồi nào cũng không thể khôi phục các tệp đã xóa.
@@ -66,10 +61,6 @@ Công Cụ Xóa An Toàn sử dụng thuật toán xóa an toàn với tám giai
 7. **Giai Đoạn 7**: Tệp được ghi đè bằng byte `0`, hoàn thành quá trình ghi đè. Bước cuối cùng này đảm bảo rằng dữ liệu được thay thế bằng một giá trị đã biết, làm cho việc phục hồi gần như không thể.
 
 8. **Giai Đoạn 8**: Lệnh TRIM được gửi để tối ưu hóa việc xóa dữ liệu trên SSD và tệp được xóa. Bước này rất quan trọng để đảm bảo rằng SSD có thể quản lý hiệu quả dữ liệu đã xóa, ngăn chặn bất kỳ dấu vết nào có thể được phục hồi.
-
-## Nhà Phát Triển
-Ứng dụng này được phát triển bởi **Namtran5905**, một nhà phát triển đam mê tạo ra các công cụ nâng cao bảo mật và quyền riêng tư dữ liệu. Để biết thêm thông tin, vui lòng liên hệ với nhà phát triển.
-
 ---
 
 # セキュアファイルイレーサー
