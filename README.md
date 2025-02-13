@@ -1,37 +1,5 @@
 # Secure File Eraser
 
-## Overview
-Secure File Eraser is a powerful tool designed to permanently delete files from your system using military-grade erasing algorithms. This application provides a user-friendly interface for securely erasing files, ensuring that sensitive data cannot be recovered. This tool is essential for individuals and organizations that prioritize data security and privacy.
-
-## Features
-- **Multi-Phase Erasing**: The application employs an eight-phase erasing process to ensure complete data destruction, making it nearly impossible for any recovery software to retrieve the deleted files.
-- **User-Friendly Interface**: Built with Tkinter, the application offers an intuitive GUI for easy file selection and erasure, allowing users to navigate the tool effortlessly.
-- **Language Support**: Available in English, Vietnamese with the option to switch between languages, making it accessible to a wider audience.
-
-## Importance of Secure File Deletion
-When files are deleted from a computer, they are not truly erased; instead, the space they occupied is marked as available for new data. This means that the original data can often be recovered using specialized software. Secure File Eraser addresses this issue by overwriting the data multiple times, ensuring that it cannot be recovered by any means.
-
-## Algorithms
-The Secure File Eraser utilizes the following eight-phase algorithm for secure file deletion:
-
-1. **Phase 1**: The file is divided into five parts, each overwritten with random characters. This initial step ensures that the original data is obscured, making it difficult for recovery tools to identify the original content.
-   
-2. **Phase 2**: The file is merged and overwritten with different random characters. This further complicates any potential recovery efforts by introducing additional randomness to the data.
-
-3. **Phase 3**: The entire file is overwritten with a single random character, reinforcing the destruction of the original data. This step ensures that even if recovery tools attempt to analyze the file structure, they will only find a uniform character.
-
-4. **Phase 4**: The file is overwritten with the byte `1`, adding another layer of complexity to the data recovery process. This step is crucial as it ensures that the data is not only obscured but also replaced with a known value.
-
-5. **Phase 5**: The file is overwritten with a repeating pattern of `10`, which helps to obscure the data structure. This pattern introduces a recognizable sequence that further complicates recovery attempts.
-
-6. **Phase 6**: The file is overwritten with a repeating pattern of `0110`, ensuring that the original data cannot be reconstructed. This step reinforces the previous phases by adding another layer of complexity.
-
-7. **Phase 7**: The file is overwritten with the byte `0`, completing the overwriting process. This final step ensures that the data is replaced with a known value, making recovery virtually impossible.
-
-8. **Phase 8**: The TRIM command is sent to optimize data deletion on SSDs, and the file is deleted. This step is crucial for ensuring that the SSD can effectively manage the deleted data, preventing any remnants from being recoverable.
-
-# Công Cụ Xóa An Toàn
-
 ## Tổng Quan
 Secure File Eraser là một công cụ mạnh mẽ được thiết kế để xóa vĩnh viễn các tệp từ hệ thống của bạn bằng cách sử dụng các thuật toán xóa cấp độ quân sự. Ứng dụng này cung cấp giao diện thân thiện với người dùng để xóa tệp an toàn, đảm bảo rằng dữ liệu nhạy cảm không thể được khôi phục. Công cụ này rất cần thiết cho các cá nhân và tổ chức ưu tiên bảo mật và quyền riêng tư dữ liệu.
 
