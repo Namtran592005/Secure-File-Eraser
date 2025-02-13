@@ -1,7 +1,7 @@
 # Secure File Eraser
 
 ## Tổng Quan
-Secure File Eraser là một công cụ mạnh mẽ được thiết kế để xóa vĩnh viễn các tệp từ hệ thống của bạn bằng cách sử dụng các thuật toán xóa cấp độ quân sự. Ứng dụng này cung cấp giao diện thân thiện với người dùng để xóa tệp an toàn, đảm bảo rằng dữ liệu nhạy cảm không thể được khôi phục. Công cụ này rất cần thiết cho các cá nhân và tổ chức ưu tiên bảo mật và quyền riêng tư dữ liệu.
+Secure File Eraser là một công cụ mạnh mẽ được thiết kế để xóa vĩnh viễn các tệp từ hệ thống của bạn. Ứng dụng này cung cấp giao diện thân thiện với người dùng để xóa tệp an toàn, đảm bảo rằng dữ liệu nhạy cảm không thể được khôi phục. Công cụ này rất cần thiết cho các cá nhân và tổ chức ưu tiên bảo mật và quyền riêng tư dữ liệu.
 
 ## Tính Năng
 - **Xóa Nhiều Giai Đoạn**: Ứng dụng sử dụng quy trình xóa tám giai đoạn để đảm bảo tiêu hủy hoàn toàn dữ liệu, khiến cho bất kỳ phần mềm phục hồi nào cũng không thể khôi phục các tệp đã xóa.
